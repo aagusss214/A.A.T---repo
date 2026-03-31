@@ -1,2 +1,8 @@
+# vscode config
 .vscode/*
+
+# keys
 *.key
+
+# executable files
+*.bat
